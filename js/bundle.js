@@ -1,0 +1,1 @@
+!function(){"use strict";!function(){const o=document.querySelector(".scroll-to-top");function n(){o.style.display=window.pageYOffset>300?"block":"none"}o&&(o.addEventListener("click",(function(){window.scrollTo({top:0,behavior:"smooth"})})),window.addEventListener("scroll",n),n())}()}();
