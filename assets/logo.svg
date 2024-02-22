@@ -1,13 +1,14 @@
-<svg width="73" height="72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="56" height="56" fill="none" xmlns="http://www.w3.org/2000/svg">
   <g clip-path="url(#a)">
-    <rect x=".05" width="72" height="72" rx="36" fill="#111111"/>
-    <rect width="3" height="3" rx="1.5" transform="matrix(1 0 0 -1 43.493 12.34)" fill="#FEE076"/>
-    <rect width="3" height="3" rx="1.5" transform="matrix(1 0 0 -1 59.573 29.508)" fill="#FEE076"/>
-    <path d="M33.235 12.982a.5.5 0 0 0-1 0h1Zm-1 0v67.756h1V12.982h-1ZM27.607 28.618a.5.5 0 1 0-1 0h1Zm-1 0v52.12h1v-52.12h-1ZM21.979 39.166a.5.5 0 1 0-1 0h1Zm-1 0v41.571h1V39.166h-1ZM16.35 46.86a.5.5 0 1 0-1 0h1Zm-1 0v33.878h1V46.86h-1ZM10.721 35.999a.5.5 0 0 0-1 0h1Zm-1 0v44.738h1V36h-1ZM5.093 24.84a.5.5 0 0 0-1 0h1Zm-1 0v55.898h1V24.841h-1ZM38.864 21.701a.5.5 0 1 0-1 0h1Zm-1 0v59.037h1V21.701h-1ZM44.493 31.731a.5.5 0 0 0-1 0h1Zm-1 0v49.007h1V31.73h-1ZM50.121 42.983a.5.5 0 0 0-1 0h1Zm-1 0v37.755h1V42.983h-1ZM55.75 48.156a.5.5 0 0 0-1 0h1Zm-1 0v32.582h1V48.156h-1ZM61.378 48.156a.5.5 0 1 0-1 0h1Zm-1 0v32.582h1V48.156h-1ZM67.007 44.412a.5.5 0 1 0-1 0h1Zm-1 0v36.326h1V44.412h-1Z" fill="#fff"/>
+    <rect width="56" height="56" rx="28" fill="#111"/>
+    <path d="M26 13.1a.5.5 0 1 0-1 0h1Zm-1 0v49.4h1V13h-1Zm-3.5 11.6a.5.5 0 0 0-1 0h1Zm-1 0v37.8h1V24.7h-1Zm-3.3 10.9a.5.5 0 0 0-1 0h1Zm-1 0v26.9h1V35.6h-1Zm-3.4 3.9a.5.5 0 0 0-1 0h1Zm-1 0v23h1v-23h-1Zm-3.4-2a.5.5 0 0 0-1 0h1Zm-1 0v25h1v-25h-1ZM4 28.8a.5.5 0 1 0-1 0h1Zm-1 0v33.7h1V28.8H3ZM30.3 11a.5.5 0 0 0-1 0h1Zm-1 0v51.5h1V11h-1Zm5.4 8.8a.5.5 0 1 0-1 0h1Zm-1 0v42.7h1V19.8h-1ZM39 32a.5.5 0 1 0-1 0h1Zm-1 0v30.5h1V32h-1Zm5.4 7a.5.5 0 0 0-1 0h1Zm-1 0v23.5h1V39h-1Zm5.4-.7a.5.5 0 1 0-1 0h1Zm-1 0v24.2h1V38.3h-1Zm5.4-8.2a.5.5 0 1 0-1 0h1Zm-1 0v32.4h1V30h-1Z" fill="#fff"/>
+    <path d="M-4.8 0s8.5 39.5 16.4 39.5c7.8 0 11.4-29.2 16.8-29.2 5.3 0 9.2 28.7 16.2 29.2C51.6 40.1 60.8 0 60.8 0" stroke="#fff"/>
+    <path d="M5.2 0s8.5 39.5 16.4 39.5c7.8 0 11.4-29.2 16.8-29.2 5.3 0 9.2 28.7 16.2 29.2C61.6 40.1 70.8 0 70.8 0" stroke="#fff"/>
+    <rect width="5" height="5" rx="2.5" transform="matrix(1 0 0 -1 14.2 13.1)" fill="#FEE076"/>
   </g>
   <defs>
     <clipPath id="a">
-      <rect x=".05" width="72" height="72" rx="36" fill="#fff"/>
+      <rect width="56" height="56" rx="28" fill="#fff"/>
     </clipPath>
   </defs>
 </svg>
