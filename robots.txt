@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vasiliy-dudin.com/sitemap.xml
+Sitemap: https://dudin.design/sitemap.xml
