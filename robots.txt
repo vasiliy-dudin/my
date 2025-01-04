@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /projects/*
+Allow: /projects/$
+
+Sitemap: https://dudin.design/sitemap.xml
